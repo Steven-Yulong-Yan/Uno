@@ -1,4 +1,4 @@
-# Uno
+# Overview
 
 This is a digital version of the card based game Uno that follows the MVC (Model, View, Controller) programming pattern.
 
